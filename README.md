@@ -1,1 +1,1 @@
-# Nabeshima
+# 鍋島 Nabeshima
