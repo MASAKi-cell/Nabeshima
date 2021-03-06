@@ -11,7 +11,7 @@ Ver1.01
 <br>
 ●&nbsp;担当 ：デザイン、コーディング<br>
 ●&nbsp;制作期間：約1.5ヶ月
-●&nbsp;ターゲット：30代以降の男女、記念日などで利用す夫婦<br>
+●&nbsp;ターゲット：30代以降の男女、記念日などで利用する夫婦<br>
 ●&nbsp;レスポンシブ：スマートフォン/PC<br>
 ●&nbsp;使用スキル：HTML/CSS、JavaScript、jQuery<br>
 ●&nbsp;使用ソフト：illustratar、Dreamweaver<br>
