@@ -2,6 +2,8 @@
 Ver1.01
 <br>
 
+●作成サイト： http://restaurant-copy.blue
+
 ## 概要 ##
 <br>
 ●&nbsp;プロジェクト名：鍋島　NABESHIMA&nbsp;&nbsp;和食レストランのリニューアルサイト<br>
